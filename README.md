@@ -45,7 +45,6 @@ Bar Charts, Word Cloud, Scatter Bubble Chart, Tree Map, Geo Chart, Pie Char
 • Future Technology Trends
 • Demographics
 
-
 ## Dashboard Preview
 ![Dashboard](Demographic dashboard.png)
 
